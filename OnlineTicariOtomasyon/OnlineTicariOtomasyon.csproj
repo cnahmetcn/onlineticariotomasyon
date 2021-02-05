@@ -124,6 +124,16 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Classes\Faturalar.cs" />
+    <Compile Include="Models\Classes\Departman.cs" />
+    <Compile Include="Models\Classes\Admin.cs" />
+    <Compile Include="Models\Classes\Cariler.cs" />
+    <Compile Include="Models\Classes\Kategori.cs" />
+    <Compile Include="Models\Classes\FaturaKalem.cs" />
+    <Compile Include="Models\Classes\Gider.cs" />
+    <Compile Include="Models\Classes\SatisHareket.cs" />
+    <Compile Include="Models\Classes\Urun.cs" />
+    <Compile Include="Models\Classes\Personel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -165,7 +175,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
