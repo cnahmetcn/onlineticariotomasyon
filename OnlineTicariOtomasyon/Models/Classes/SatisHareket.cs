@@ -13,9 +13,9 @@ namespace OnlineTicariOtomasyon.Models.Classes
         public decimal Fiyat { get; set; }
         public decimal ToplamTutar { get; set; }
 
-        public ICollection<Urun> Urun { get; set; }
-        public ICollection<Cariler> Carilers { get; set; }
-        public ICollection<Personel> Personels { get; set; }
+        public Urun Urun { get; set; }
+        public Cariler Cariler { get; set; }
+        public Personel Personel { get; set; }
 
     }
 }

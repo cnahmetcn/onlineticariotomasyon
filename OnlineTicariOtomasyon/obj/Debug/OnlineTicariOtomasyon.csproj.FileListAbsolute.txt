@@ -77,3 +77,7 @@ C:\Users\daSilva\source\repos\OnlineTicariOtomasyon\OnlineTicariOtomasyon\obj\De
 C:\Users\daSilva\source\repos\OnlineTicariOtomasyon\OnlineTicariOtomasyon\obj\Debug\OnlineTicariOtomasyon.csproj.CopyComplete
 C:\Users\daSilva\source\repos\OnlineTicariOtomasyon\OnlineTicariOtomasyon\obj\Debug\OnlineTicariOtomasyon.dll
 C:\Users\daSilva\source\repos\OnlineTicariOtomasyon\OnlineTicariOtomasyon\obj\Debug\OnlineTicariOtomasyon.pdb
+C:\Users\daSilva\source\repos\OnlineTicariOtomasyon\OnlineTicariOtomasyon\bin\EntityFramework.dll
+C:\Users\daSilva\source\repos\OnlineTicariOtomasyon\OnlineTicariOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\Users\daSilva\source\repos\OnlineTicariOtomasyon\OnlineTicariOtomasyon\bin\EntityFramework.xml
+C:\Users\daSilva\source\repos\OnlineTicariOtomasyon\OnlineTicariOtomasyon\bin\EntityFramework.SqlServer.xml
